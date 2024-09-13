@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\bin\Debug\net8.0\Bhaskara.deps.json
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\bin\Debug\net8.0\Bhaskara.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\bin\Debug\net8.0\Bhaskara.pdb
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\refint\Bhaskara.dll
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\Bhaskara.pdb
+C:\Users\SENAI3EM\Desktop\atividades\MAUI\Bhaskara\Bhaskara\obj\Debug\net8.0\ref\Bhaskara.dll
